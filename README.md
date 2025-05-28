@@ -128,9 +128,6 @@ Colective isn’t just a tool—it’s your **team’s virtual workspace**. It b
 
 ---
 
-Let me know if you’d like a version with badges, GIF demos, or if you're planning to publish this on GitHub or for academic submission—I can help polish that as well.
----
-
 Output
 ![Screenshot 2025-03-22 063734](https://github.com/user-attachments/assets/a7f06aff-5b49-448a-ae6f-006c6339ade8)
 ![Screenshot 2025-03-22 063916](https://github.com/user-attachments/assets/758689fd-b8ee-4d77-bf3d-ed8d32108ab9)
