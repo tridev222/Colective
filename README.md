@@ -129,3 +129,25 @@ Colective isn’t just a tool—it’s your **team’s virtual workspace**. It b
 ---
 
 Let me know if you’d like a version with badges, GIF demos, or if you're planning to publish this on GitHub or for academic submission—I can help polish that as well.
+---
+
+Output
+![Screenshot 2025-03-22 063734](https://github.com/user-attachments/assets/a7f06aff-5b49-448a-ae6f-006c6339ade8)
+![Screenshot 2025-03-22 063916](https://github.com/user-attachments/assets/758689fd-b8ee-4d77-bf3d-ed8d32108ab9)
+![Screenshot 2025-03-22 064113](https://github.com/user-attachments/assets/92e163ab-23c4-4de1-a5c0-ee49e11a2d01)
+![Screenshot 2025-03-22 064505](https://github.com/user-attachments/assets/d27b907f-49ab-4058-be60-f55a29783df7)
+![Screenshot 2025-03-22 064612](https://github.com/user-attachments/assets/a8d75255-6b08-46f1-b476-195f9383d9a6)
+
+![Screenshot 2025-03-22 095134](https://github.com/user-attachments/assets/99b51c84-6f9c-4771-a5a1-1f7fd30d9d44)
+![Screenshot 2025-03-22 095445](https://github.com/user-attachments/assets/43cebb90-ec77-45b9-9b05-8ae1328f7583)
+![Screenshot 2025-03-22 095526](https://github.com/user-attachments/assets/cff65785-dd2d-42c7-9406-9bb1781890f1)
+![Screenshot 2025-03-22 095710](https://github.com/user-attachments/assets/f6af43cc-2626-46b8-987f-32b3a8fd9574)
+![Screenshot 2025-04-28 101841](https://github.com/user-attachments/assets/8ab5f011-988c-4a8e-89df-2fcd29072395)
+![Screenshot 2025-05-07 025522](https://github.com/user-attachments/assets/8be0f357-55cf-4244-9379-9ad096c44e89)
+![Screenshot 2025-05-07 025711](https://github.com/user-attachments/assets/e6e28d24-affd-41e5-99c9-be9b90240f52)
+![Screenshot 2025-05-07 025746](https://github.com/user-attachments/assets/5427a80a-6be8-460c-920c-45d6c721526d)
+![Screenshot 2025-05-10 115529](https://github.com/user-attachments/assets/35fd605e-350c-441b-9ba3-f3a28b3109e9)
+![Screenshot 2025-03-22 063708](https://github.com/user-attachments/assets/3301b158-e894-4ca3-8cad-a2886102a777)
+
+
+---
