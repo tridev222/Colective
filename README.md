@@ -1,7 +1,3 @@
-Sure! Here's a polished and professional README tailored for **Colective – A Team Collaboration Portal**, with a focus on student-oriented project collaboration, built using **Vite, React, Tailwind CSS, and the MERN stack**.
-
----
-
 # 🚀 Project Name: Colective – Team Collaboration Portal
 
 > In today’s dynamic academic environment, effective team collaboration is the backbone of successful student projects. *Colective* is a modern web application designed specifically for student teams to manage their academic projects effortlessly. Unlike traditional tools that feel bulky or enterprise-focused, Colective blends simplicity, functionality, and real-time collaboration into one intuitive platform.
